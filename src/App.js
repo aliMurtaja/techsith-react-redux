@@ -1,24 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+// import {SimpleReact} from './ComponentsRedux/Part2SimpleReactRedux/SimpleReact';
+
+import {SimpleReactWithReduxParentPart3} from './ComponentsRedux/Part3SimpleReactRedux/SimpleReactWithReduxParentPart3';
+
+// import {SimpleReact} from './ComponentsRedux/Part3SimpleReactRedux/SimpleReact'
+
+// import {SimpleReactWithReduxParentPart4} from './ComponentsRedux/Part4SimpleReactReduxWithHistoryMaintainINStore/SimpleReactWithReduxParentPart4';
+
+// import {Part5WithOutCombineReducer} from './ComponentsRedux/CombinReducer/Part5WithOutCombineReducer/Part5WithOutCombineReducer';
+
+// import {Part5WithCombineReducer} from './ComponentsRedux/CombinReducer/Part5WithCombineReducer/Part5WithCombineReducer';
+
+// import {SimpleReactWithReduxParentPart7Thunk} from './ComponentsRedux/SimpleReactWithReduxParentPart7Thunk/SimpleReactWithReduxParentPart7Thunk'
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+      {/* <SimpleReact /> */}
+
+      <SimpleReactWithReduxParentPart3 />
+
+      {/* <SimpleReactWithReduxParentPart4 /> */}
+
+      {/* <Part5WithOutCombineReducer /> */}
+
+      {/* <Part5WithCombineReducer /> */}
+
+      {/* <SimpleReactWithReduxParentPart7Thunk /> */}
+
     </div>
   );
 }
