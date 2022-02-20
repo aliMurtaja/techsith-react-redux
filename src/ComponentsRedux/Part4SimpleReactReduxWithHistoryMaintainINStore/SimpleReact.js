@@ -23,6 +23,7 @@ export class SimpleReact extends Component {
         // this is comment
     }
 
+    // this ageDown function
     ageDown = () =>{
        // experiment 3 (start)
        let ob1 = {...this.state}
