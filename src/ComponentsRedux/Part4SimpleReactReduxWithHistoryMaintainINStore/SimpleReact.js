@@ -17,6 +17,8 @@ export class SimpleReact extends Component {
             age : 12, 
             // ages :null
         }
+
+        // this is comment
     }
 
     ageDown = () =>{
@@ -32,7 +34,7 @@ export class SimpleReact extends Component {
             
             // ages : --this.state.age, //in which we mutate the state directally
             // in this position if we print the ages and age both show the same result
-            // experiment 1 (end)
+            // experiment 1 (end)  line added
 
             
             
@@ -84,3 +86,4 @@ export class SimpleReact extends Component {
     }
 
 }
+

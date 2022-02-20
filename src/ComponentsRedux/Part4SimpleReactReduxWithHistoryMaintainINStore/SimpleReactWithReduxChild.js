@@ -30,6 +30,8 @@ class SimpleReactWithReduxChild extends Component {
       history : state.history
     };
   };
+
+  // what
   
   const mapDispachToProps = dispatch => {
     return {
