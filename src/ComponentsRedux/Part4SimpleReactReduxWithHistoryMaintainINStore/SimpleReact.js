@@ -14,7 +14,7 @@ export class SimpleReact extends Component {
         super(props)
 
         this.state ={
-            age : 12,
+            age : 12, 
             // ages :null
         }
     }
