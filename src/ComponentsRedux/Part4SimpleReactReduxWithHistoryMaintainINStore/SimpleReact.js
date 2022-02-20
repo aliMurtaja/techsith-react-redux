@@ -10,6 +10,8 @@ import React, { Component } from "react";
 
 export class SimpleReact extends Component {
 
+
+    // this is constructore
     constructor(props){
         super(props)
 
