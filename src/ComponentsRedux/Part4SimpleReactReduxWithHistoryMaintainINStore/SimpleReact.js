@@ -51,7 +51,7 @@ export class SimpleReact extends Component {
             // 
             // experiment 2 (end)
 
-
+            // 
             // experiment 3 (start)
             // ages : --ob1.age,    //this give us the same result bcs ob1.age is alway has the 12 value
             // and here we make (ages) new copy 
