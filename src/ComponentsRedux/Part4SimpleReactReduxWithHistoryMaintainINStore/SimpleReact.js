@@ -11,7 +11,7 @@ import React, { Component } from "react";
 export class SimpleReact extends Component {
 
 
-    // this is constructore change in 
+    // this is constructore change in change
     constructor(props){
         super(props)
 
