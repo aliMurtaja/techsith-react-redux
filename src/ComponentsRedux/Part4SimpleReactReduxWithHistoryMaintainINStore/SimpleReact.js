@@ -11,7 +11,7 @@ import React, { Component } from "react";
 export class SimpleReact extends Component {
 
 
-    // this is constructore anther change
+    // this is constructore anther change vv
     constructor(props){
         super(props)
 
