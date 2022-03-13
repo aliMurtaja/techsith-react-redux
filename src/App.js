@@ -13,6 +13,7 @@ import {SimpleReactWithReduxParentPart3} from './ComponentsRedux/Part3SimpleReac
 // import {Part5WithCombineReducer} from './ComponentsRedux/CombinReducer/Part5WithCombineReducer/Part5WithCombineReducer';
 
 // import {SimpleReactWithReduxParentPart7Thunk} from './ComponentsRedux/SimpleReactWithReduxParentPart7Thunk/SimpleReactWithReduxParentPart7Thunk'
+// in branch_23
 
 
 function App() {
